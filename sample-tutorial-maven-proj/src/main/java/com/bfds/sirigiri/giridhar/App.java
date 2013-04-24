@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Java App developed sirigiri giridhar...!" );
+        System.out.println( "Java App developed by Maven -- sirigiri giridhar testing...!" );
     }
 }
